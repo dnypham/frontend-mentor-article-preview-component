@@ -1,0 +1,29 @@
+/* ----------FONTS---------- */
+
+.manrope-500 {
+  font-family: "Manrope", sans-serif;
+  font-weight: 500;
+}
+
+.manrope-700 {
+  font-family: "Manrope", sans-serif;
+  font-weight: 700;
+}
+
+/* ----------COLORS---------- */
+
+.very-dark-grayish-blue {
+  color: hsl(217, 19%, 35%);
+}
+
+.desaturated-dark-blue {
+  color: hsl(214, 17%, 51%);
+}
+
+.grayish-blue {
+  color: hsl(212, 23%, 69%)
+}
+
+.light-grayish-blue {
+  color: hsl(210, 46%, 95%)
+}
