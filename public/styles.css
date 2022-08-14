@@ -57,7 +57,7 @@
 }
 
 .article-text-container {
-  padding: 32px 34px;
+  padding: 30px 34px 20px;
 }
 
 .article-title {
@@ -75,7 +75,7 @@
   display: flex;
   justify-content: start;
   align-items: center;
-  padding: 0 34px 18px;
+  padding: 20px 34px;
 }
 
 .user-photo {
@@ -109,5 +109,48 @@
   border: none;
   cursor: pointer;
 }
+
+.share-section {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 20px 34px;
+    background-color: hsl(217, 19%, 35%);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.share-text {
+  font-size: 13px;
+  letter-spacing: 6px;
+}
+
+.share-button-container-active {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: auto;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+  background-color: hsl(214, 17%, 51%);
+}
+
+.share-button-active {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(90%) saturate(5%) hue-rotate(106deg) brightness(107%) contrast(100%);}
+
+.share-icon {
+  cursor: pointer;
+  margin-left: 15px;
+}
+
+.hide {
+  display: none;
+}
+
+/* ----------PSEUDO CLASSES---------- */
+
 
 /* ----------MEDIA QUERIES---------- */
