@@ -1,9 +1,10 @@
 import React, { useState } from "react";
+import ArticleImage from "./article-image";
 
 export default function ArticlePreview() {
   return (
     <div className="article-card">
-      <img className="article-image" src="./assets/drawers.jpg" alt="drawers" />
+      <ArticleImage />
       <div className="article-text-container">
         <h2 className="article-title manrope-700 very-dark-grayish-blue">
           Shift the overall look and feel by adding these wonderful touches
