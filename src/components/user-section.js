@@ -19,7 +19,7 @@ export default function UserSection() {
           <p className="article-date manrope-500">28 Jun 2020</p>
         </div>
         <button className="share-button-container" onClick={toggleSection}>
-          <img className="share-button" src="./assets/icon-share.svg" />
+          <img src="./assets/icon-share.svg" />
         </button>
       </div>
         <div className={isShareSectionVisible ? 'share-section' : 'hide'}>

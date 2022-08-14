@@ -113,14 +113,14 @@
 }
 
 .share-section {
-    display: flex;
-    justify-content: start;
-    align-items: center;
-    padding: 20px 34px;
-    background-color: hsl(217, 19%, 35%);
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-    height: 70px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 20px 34px;
+  background-color: hsl(217, 19%, 35%);
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  height: 70px;
 }
 
 .share-text {
@@ -154,6 +154,10 @@
 }
 
 /* ----------PSEUDO CLASSES---------- */
+
+.share-icon:hover {
+  padding-bottom: 10px;
+}
 
 
 /* ----------MEDIA QUERIES---------- */
