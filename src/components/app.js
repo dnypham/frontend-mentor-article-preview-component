@@ -1,9 +1,10 @@
 import React, { useState } from 'react';
+import ArticlePreview from './article-preview';
 
 export default function App() {
   return (
-    <div>
-      <h1>Hello world!</h1>
+    <div className='app'>
+      <ArticlePreview />
     </div>
   )
 }

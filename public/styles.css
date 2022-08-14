@@ -27,3 +27,48 @@
 .light-grayish-blue {
   color: hsl(210, 46%, 95%)
 }
+
+/* ----------APP COMPONENT---------- */
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  max-width: 100vw;
+  background-color: hsl(210, 46%, 95%);
+}
+
+/* ----------ARTICLE PREVIEW COMPONENT---------- */
+
+.article-card {
+  width: 325px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.article-image {
+  width: 100%;
+  height: 175px;
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.article-text-container {
+  padding: 32px 34px;
+}
+
+.article-title {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.article-paragraph {
+  margin-top: 15px;
+  font-size: 13px;
+  line-height: 20px;
+}
+
+/* ----------MEDIA QUERIES---------- */
