@@ -204,12 +204,16 @@
   }
 
   .article-text-container {
-    padding: 30px 40px 20px 34px ;
+    padding: 30px 50px 5px 34px ;
   }
 
   .article-title {
     font-size: 21px;
     line-height: 27px;
+  }
+
+  .user-section {
+    padding: 20px 34px 32px 34px;
   }
 
 }
