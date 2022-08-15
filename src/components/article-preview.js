@@ -7,8 +7,10 @@ export default function ArticlePreview() {
   return (
     <div className="article-card">
       <ArticleImage />
-      <ArticleText />
-      <UserSection />
+      <div className="article-desktop-layout">
+        <ArticleText />
+        <UserSection />
+      </div>
     </div>
   )
 }
