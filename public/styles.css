@@ -155,6 +155,22 @@
 
 /* ----------PSEUDO CLASSES---------- */
 
+.share-button-container:hover {
+  background-color: hsl(214, 17%, 51%);
+}
+
+.share-button-container:hover .share-button {
+  filter: brightness(0) saturate(100%) invert(100%) sepia(90%) saturate(5%) hue-rotate(106deg) brightness(107%) contrast(100%);
+}
+
+.share-button-container-active:hover {
+  background-color: hsl(210, 46%, 95%);
+}
+
+.share-button-container-active:hover .share-button-active {
+  filter: brightness(0) saturate(100%) invert(30%) sepia(24%) saturate(564%) hue-rotate(178deg) brightness(92%) contrast(84%);
+}
+
 .share-icon:hover {
   padding-bottom: 10px;
 }
