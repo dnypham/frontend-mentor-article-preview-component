@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/frontend-mentor-article-preview-mobile-view.png)
-![](./screenshots/frontend-mentor-article-preview-mobile-view-active.png)
+![](./screenshots/frontend-mentor-article-preview-component-mobile-view.png)
+![](./screenshots/frontend-mentor-article-preview-component-mobile-view-active.png)
 ![](./screenshots/frontend-mentor-article-preview-desktop-view.png)
 ![](./screenshots/frontend-mentor-article-preview-desktop-view-active.png)
 
