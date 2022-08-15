@@ -23,12 +23,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshots/frontend-mentor-article-preview-mobile-view.png)
+![](./screenshots/frontend-mentor-article-preview-mobile-view-active.png)
+![](./screenshots/frontend-mentor-article-preview-desktop-view.png)
+![](./screenshots/frontend-mentor-article-preview-desktop-view-active.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://your-solution-url.com)
+- [Live Site](https://frontend-mentor-article-preview.netlify.app/)
 
 ## My process
 
