@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-export default function UserSection() {
+export default function ArticleUserSection() {
   const [isUserSectionVisible, setIsUserSectionVisible] = useState(true);
   const [isShareSectionVisible, setIsShareSectionVisible] = useState(false);
   const [isDesktopShareButtonActive, setIsDesktopShareButtonActive] = useState(false);
